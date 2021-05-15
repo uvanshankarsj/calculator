@@ -38,3 +38,5 @@ git push origin main
 ### Built by
 
 - sridhar-5
+
+Added naturalExponential Function Rengaraj R

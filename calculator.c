@@ -27,6 +27,19 @@
 double add(double a, double b) {
     return a + b;
 }
+// Code for 14. Natural Exponent (e^x)
+/*
+  Code Written By Rengaraj R
+  Written on Windows 10 15-05-2021 17:55
+  input  double 
+  returns double
+*/
+double naturalExponent( double number)
+{
+    double answer;
+    answer = exp(number);
+    return answer;
+}
 
 // Insert your code below
 
