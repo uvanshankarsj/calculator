@@ -28,6 +28,17 @@ if choice == 1:
     result = a + b
 
     print("The sum is", result)
+    
+if choice == 2:
+    print("Enter the number you'd like to subtract: ")
+    x = int(input())
+    y = int(input())
+    if x>y:
+        result = x - y
+    else:
+        result = y - x
+    
+    print("The remainder is: ", result)
 
 # Fill the rest of the functionality here!
 # 2. Subtraction
