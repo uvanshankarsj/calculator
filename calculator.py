@@ -58,5 +58,17 @@ if choice == 6:
 # 8. Tangent
 # 9. Floor
 # 10. Ceiling
+#include<stdio.h>
+
+if choice==10;
+{scanf("%f",x);
+int ceil;
+ceil=x/1;
+if(ceil<=0) 
+printf("the ceil of the number %d is %d",x,ceil);
+else
+ceil=ceil+1;
+printf("the ceil of the number %d is %d",x,ceil);
+}
 # 11. Round
 # 12. Absolute value
