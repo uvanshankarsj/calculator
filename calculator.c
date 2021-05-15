@@ -31,11 +31,5 @@ double add(double a, double b) {
 // Insert your code below
 
 int main() {
-    // Initialize variables
-
-    // Prompt user for input
-
-    // Perform appropriate function
-
-    // Terminate program after finishing tasks
+    add();
 }
